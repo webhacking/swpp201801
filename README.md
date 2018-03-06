@@ -8,6 +8,7 @@
 
 ## Announcements
 
+- 03.06. Please send your GitHub account and student number to TA's email.
 
 ## Projects
 
