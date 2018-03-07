@@ -15,3 +15,4 @@
 
 ## Assignments
 
+- 03.07. [Assignment 1-1](https://github.com/snu-sf-class/swpp201801/blob/master/assignments/assignment_1-1.md) is released!
