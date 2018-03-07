@@ -7,16 +7,20 @@ Your task is to implement three functions, `add(int a, int b)`, `sub(int a, int 
 Every student should send 2 pull requests to their own branch, named as student ID's last 5 digits, of [upstream repository](https://github.com/snu-sf-class/SWPP2018_Git_Assignment).
 Please follow the following instructions.
 
+### STEP 1
 1. Fork the [upstream repository](https://github.com/snu-sf-class/SWPP2018_Git_Assignment).
 You will work on your repository (the forked one).
 2. Clone the forked repository and checkout to your own branch.
 Your branch is containing skeleton code of the calculator.
 3. Create two branches named `add_sub` and `add_mul`, on which you will work.
-4. Implement two functions `add(int a, int b)` and `sub(int a, int b)` on the `add_sub` branch.
+
+### STEP 2
+4. Switch to the `add_sub` branch and implement two functions `add(int a, int b)` and `sub(int a, int b)` on it.
 While you are working, please make separate commits for each two function, i.e. number of commits should be 2.
 5. Push the `add_sub` branch to the forked repository.
-6. Make a pull request to your branch of upstream repository from your `add_sub` branch.
+6. Make a pull request to your branch of [upstream repository](https://github.com/snu-sf-class/SWPP2018_Git_Assignment) from your `add_sub` branch.
 
+### STEP 3
 7. Switch to the `add_mul` branch.
 You will Implement two functions `add(int a, int b)` and `mul(int a, int b)` on this branch.
 8. Implement `add(int a, int b)` function in a different way (e.g., make it recursively) from step 4, and commit.
