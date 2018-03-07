@@ -9,15 +9,16 @@ Please follow the following instructions.
 
 ### STEP 1
 1. Fork the [upstream repository](https://github.com/snu-sf-class/SWPP2018_Git_Assignment).
-You will work on your repository (the forked one).
-2. Clone the forked repository and checkout to your own branch.
+You will work on your repository (your fork).
+2. Clone your fork and checkout to your own branch.
 Your branch is containing skeleton code of the calculator.
 3. Create two branches named `add_sub` and `add_mul`, on which you will work.
 
 ### STEP 2
 4. Switch to the `add_sub` branch and implement two functions `add(int a, int b)` and `sub(int a, int b)` on it.
-While you are working, please make separate commits for each two function, i.e. number of commits should be 2.
-5. Push the `add_sub` branch to the forked repository.
+While you are working, first, implement `add(int a, int b)` and commit, and then, implement `sub(int a, int b)` and commit again,
+i.e., the number of commits should be 2.
+5. Push the `add_sub` branch to your repository.
 6. Make a pull request to your branch of [upstream repository](https://github.com/snu-sf-class/SWPP2018_Git_Assignment) from your `add_sub` branch.
 
 ### STEP 3
