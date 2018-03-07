@@ -7,6 +7,8 @@ Your task is to implement three functions, `add(int a, int b)`, `sub(int a, int 
 Every student should send 2 pull requests to their own branch, named as student ID's last 5 digits, of [upstream repository](https://github.com/snu-sf-class/SWPP2018_Git_Assignment).
 Please follow the following instructions.
 
+***
+
 ### STEP 1
 1. Fork the [upstream repository](https://github.com/snu-sf-class/SWPP2018_Git_Assignment).
 You will work on your repository (your fork).
@@ -37,6 +39,11 @@ You can search what 'fast-forward' is and how to avoid it.
 12. Push the `add_mul` branch to your repository.
 13. Make another pull request to your branch of
 [upstream repository](https://github.com/snu-sf-class/SWPP2018_Git_Assignment) from your `add_mul` branch.
+
+### Note
+- Please leave some descriptions on pull requests, which explain what you have done on each pull request.
+
+***
 
 After the due date, TA will review the pull requests and request some modification.
 If you receieve comments, please read it, modify as requested, and comment back to TAs.
