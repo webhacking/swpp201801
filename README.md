@@ -9,7 +9,7 @@
 ## Announcements
 
 - 03.06. Please send your GitHub account and student number to TA's email.
-- 03.11. Please refer to [the announcement](https://github.com/snu-sf-class/swpp201801/issues/4) before you push requested changes.
+- 03.11. (Assignment 1-1) Please refer to [the announcement](https://github.com/snu-sf-class/swpp201801/issues/4) before you push requested changes.
 
 ## Projects
 
