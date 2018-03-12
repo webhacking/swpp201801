@@ -12,7 +12,7 @@ To merge the `add_mul` pull request, you must resolve the conflict.
 
 ### STEP 1. Squashing Existing Commits
 Owing to difficulty in implementing mul function, your commit log became messy.
-Hence, you are going to clean up the commit log by squashing the commits before you resolve the conflict.
+Hence, you are going to clean up the commit log by squashing the commits before you resolving the conflict.
 
 1. Squash the three commits, which are implementation of add function and mul function, and merge of mul_trial.
 In this case, you can squash the commits in two ways, which are using `git reset` command or using `git rebase` command.
