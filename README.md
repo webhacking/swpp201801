@@ -11,6 +11,7 @@
 - 03.06. Please send your GitHub account and student number to TA's email.
 - 03.11. (Assignment 1-1) Please refer to [the announcement](https://github.com/snu-sf-class/swpp201801/issues/4) before you push requested changes.
 - 03.12. (Assignment 1-2)(Important!) Please refer to [the announcement](https://github.com/snu-sf-class/swpp201801/issues/5).
+- 03.15. (Quiz) We will have a quiz on git and github today. Please bring your laptop to the class.
 
 ## Projects
 
