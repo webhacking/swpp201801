@@ -14,7 +14,7 @@
 - 03.15. (Quiz) https://github.com/snu-sf-class/SWPP2018_Git_Quiz
 
 ## Projects
-
+- 03.15. Please check [the announcement](https://github.com/snu-sf-class/swpp201801/issues/8) on making teams.
 
 ## Assignments
 
