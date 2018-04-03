@@ -20,3 +20,4 @@
 
 - 03.07. [Assignment 1-1](https://github.com/snu-sf-class/swpp201801/blob/master/assignments/assignment_1-1.md) is uploaded.
 - 03.12. [Assignment 1-2](https://github.com/snu-sf-class/swpp201801/blob/master/assignments/assignment_1-2.md) is uploaded.
+- 03.30. [Assignment 2](https://github.com/snu-sf-class/swpp201801/files/1863294/swpp2018_hw.pdf) is uploaded.
