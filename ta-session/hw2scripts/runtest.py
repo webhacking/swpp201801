@@ -151,7 +151,7 @@ for prom in prom_old:
     forbidden_or_error_anon("DELETE", link2) # anonymous
 
     user1name = None
-    user2pwd = None
+    user1pwd = None
     
     for (uname, upwd, uid) in users:
         if prom["user1"] == uid:
@@ -221,7 +221,7 @@ for prom in proms:
     print("\tModify promise {0}".format(link2))
     
     user1name = None
-    user2pwd = None
+    user1pwd = None
     sinceWhen = sinceWhens[test_cnt]
     tilWhen = tilWhens[test_cnt]
 
