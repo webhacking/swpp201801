@@ -146,7 +146,7 @@ link = "http://localhost:8000/promises/"
 print("3. Checking DELETE http://localhost:8000/promises/")
 for prom in prom_old:
     print(prom)
-    link2 = link + str(prom["id"])
+    link2 = link + str(prom["id"]) + "/"
     print("\tDeleting promise {0}".format(link))
     forbidden_or_error_anon("DELETE", link2) # anonymous
 
